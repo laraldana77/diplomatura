@@ -1,0 +1,7 @@
+valorpresion= float(input("ingrse valor de presion"))
+
+if  valorpresion>15.0:
+ print (f" alerta el valor de presion supera el 15.0 bar")
+
+else:
+ print ("la presion esta dento del parametro") 

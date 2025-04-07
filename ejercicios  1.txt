@@ -1,0 +1,6 @@
+base= float(input("ingrese la base del triangulo"))
+altura = float (input("ingrese la altura del triangulo"))
+
+area = (base * altura) / 2
+print ( f"\n el area del triangulo con base {base} y altura {altura} es: {area}")
+       

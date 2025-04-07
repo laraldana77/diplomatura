@@ -1,0 +1,12 @@
+valor1 = int(input("ingrese valor1"))
+valor2 = int(input("ingrese valor2"))
+
+if valor1 == valor2 :
+  print ("valores iguales")
+
+elif valor1>valor2 : 
+    mayor=valor1
+
+else:
+    mayor=valor2
+    print ( f" mayor: {mayor}") 
